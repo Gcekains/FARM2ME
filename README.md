@@ -1,16 +1,24 @@
 # farm_to_me
 
+
 A new Flutter project.
 
-## Getting Started
+## why Farm2Me:
+ - build a direct link between farmers and customers
+ - avoiding intermediaries 
+ -  Farmers can add their product with the expected price (farmers will be given full control over their products)
+- Customer can select products as per their need and add to cart
+- For increasing job opportunities through this app, we are planing to add product delivery facilities. These delivery peoples are considered as real supporters of this application
+- Channels are provided for easy communication of farmers and customers 
+ 
 
-This project is a starting point for a Flutter application.
+### How to use
+- install the app
+- create an account(either sign in by email id or phone number, both options are enabled)
+- Farmers can add item
+- Customers can buy products
 
-A few resources to get you started if this is your first Flutter project:
+### Requirements for running project:
+- android studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Web version will be hosted soon
